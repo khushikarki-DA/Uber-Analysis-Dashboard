@@ -9,10 +9,10 @@ This dashboards helps in identifying peak demand periods, popular pickup and dro
 # Business Problem
 
 Ride-hailing companies like Uber generate large volumes of trip data daily. However, without proper analysis it is difficult to understand:
-When demand for rides is highest
-Which locations generate the most bookings
-Which vehicle types are most preferred
-How trip distance and duration impact revenue
+- When demand for rides is highest
+- Which locations generate the most bookings
+- Which vehicle types are most preferred
+- How trip distance and duration impact revenue
 How booking trends vary across time
 This project solves these problems by bui
 
